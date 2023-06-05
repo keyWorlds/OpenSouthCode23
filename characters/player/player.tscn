@@ -248,3 +248,5 @@ shape = SubResource("RectangleShape2D_80l5o")
 libraries = {
 "": SubResource("AnimationLibrary_0o1ml")
 }
+
+[node name="Camera2D" type="Camera2D" parent="."]
